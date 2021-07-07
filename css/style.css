@@ -1,0 +1,25 @@
+img {
+  width: 500px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+  font-weight: bold;
+}
+h1 {
+  background-color: cornflowerblue;
+  float: inherit;
+  opacity: 0.3;
+}
+video {
+  width: 250px;
+  float: left;
+}
+body {
+  background-color: chartreuse;
+  /* background-image: ; */
+  float: none;
+}                  
+
+/*this is not working*
+        b/}
+/*the link is not working */
